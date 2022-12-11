@@ -1,2 +1,2 @@
-# Rock paper cissor
-Rock paper csissor project
+# Rock paper scissors
+Rock paper scissors project
