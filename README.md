@@ -1,2 +1,2 @@
 # Rock paper cissor
-Rock paper cissor project
+Rock paper csissor project
